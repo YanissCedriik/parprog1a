@@ -1,0 +1,15 @@
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\bin\Debug\net8.0\parprog1.exe
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\bin\Debug\net8.0\parprog1.deps.json
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\bin\Debug\net8.0\parprog1.runtimeconfig.json
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\bin\Debug\net8.0\parprog1.dll
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\bin\Debug\net8.0\parprog1.pdb
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\obj\Debug\net8.0\parprog1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\obj\Debug\net8.0\parprog1.AssemblyInfoInputs.cache
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\obj\Debug\net8.0\parprog1.AssemblyInfo.cs
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\obj\Debug\net8.0\parprog1.csproj.CoreCompileInputs.cache
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\obj\Debug\net8.0\parprog1.sourcelink.json
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\obj\Debug\net8.0\parprog1.dll
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\obj\Debug\net8.0\refint\parprog1.dll
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\obj\Debug\net8.0\parprog1.pdb
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\obj\Debug\net8.0\parprog1.genruntimeconfig.cache
+C:\Users\yanis\Documents\Skole\GitHub\GetAcademy\C#\parprog1\obj\Debug\net8.0\ref\parprog1.dll
